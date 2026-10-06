@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+best_model.keras
+training_history.png
